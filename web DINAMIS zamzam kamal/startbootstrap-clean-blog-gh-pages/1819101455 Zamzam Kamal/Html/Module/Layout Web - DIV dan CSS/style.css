@@ -1,0 +1,51 @@
+*{margin:0}
+body {
+	        font-family:Arial, Century;
+}
+
+.wrap {
+	        width:1000px;
+	        margin:0 auto;
+}
+
+.header {
+	        width:auto;
+	        background:red;
+	        padding:20px;
+	        color:#ffffff;
+}
+.clear {clear:both}
+
+.nav{
+	        width:auto;
+	        background:yelow;
+	        padding:5px 20px;
+	        color:#FFFFFF;   
+}
+
+.main {
+	        width:100%;
+	        background:aqua; 
+}
+
+.content {
+	        float:left;
+	        width:66%;
+	        background:red;
+	        padding:2%;
+	        min-height:400px;  
+}
+.sidebar {
+	        float:right;
+	        width:26%;
+	        background:blue;
+	        padding:2%;   
+}
+.clear {clear:both}
+.footer {
+	        width:auto;
+	        height:auto;
+	        padding:5px 10px;
+	        background:blue;
+	        color:#ffffff;    
+}

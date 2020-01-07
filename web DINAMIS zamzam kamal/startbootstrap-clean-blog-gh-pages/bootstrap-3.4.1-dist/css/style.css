@@ -1,0 +1,62 @@
+html {
+		position: relative;
+  }
+
+body {
+		margin-bottom:  120px;
+		margin-top: 30px;
+} 
+
+.jumbotron img{
+		width: 300px;
+		border: 2px solid black;
+		box-shadow: 1px 1px 10px rgba(1,1,1,1);
+
+}
+
+.jumbotron {
+		background-image: url('../img/foto ZaZaKa/IMG_20190518_045031.png');
+		background-attachment: fixed;
+		background-size: 450px;
+		color: black;
+}
+
+hr {
+		width: 250px;
+		border: 3px solid #999;
+}
+
+section {
+		min-height: 500px;
+}
+
+.portfolio {
+		background-color: #eee;		 
+}
+
+.contact {
+		min-height: 800px;
+}
+
+.about {
+		color: #000;
+}
+
+footer {
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+		height: 120px;
+		background-color: #000;
+		padding-top: 40px; 
+}
+
+footer p {
+		color: #aaa;
+		font-size: 0.9em;		
+}
+
+footer p i {
+		color: yellow;
+
+}

@@ -1,0 +1,17 @@
+h2  {
+		background-color: black;
+		color: white;
+	}
+
+body{
+		background-color: blue;
+		font-family: arial;
+		font-size: 30px;
+}
+p{
+		background-color: red;
+		font-family: arial black;
+		font-size: 60px
+		color:blue;
+
+}

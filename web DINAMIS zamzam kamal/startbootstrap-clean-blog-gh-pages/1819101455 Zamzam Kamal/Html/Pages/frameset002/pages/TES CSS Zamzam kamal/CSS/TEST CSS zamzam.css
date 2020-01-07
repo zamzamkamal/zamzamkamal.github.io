@@ -1,0 +1,52 @@
+h1 {
+	color:red;
+	font-family: Arial black;
+	text-align: center;
+	text-decoration: underline;
+	font-size: 24px;
+
+
+
+
+   }
+
+h2 {
+	color: blue;
+	font-family: Calibri;
+	font-size: 20px;
+
+
+
+
+   }
+
+h3 {
+	color: purple;
+	font-family: Verdana;
+	text-align: right;
+	font-size: 16px;
+
+
+
+
+   }  
+
+h4 {
+	color: blue;
+	font-family: Verdana;
+	font-size: 12px;
+
+
+
+
+   }    
+
+h5 {
+	color: red;
+	font-family: Verdana;
+	font-size: 11.5px;
+
+
+
+
+   }   

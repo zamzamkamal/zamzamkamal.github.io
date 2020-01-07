@@ -1,0 +1,46 @@
+body 	{background-color: powderblue;}
+h1 {
+	color:blue;
+   
+   }
+
+h3 { 
+	color:red
+
+   } 
+
+.bggreen {
+	 color :red;
+	 background: green; 
+	 padding: 10px;    
+
+}   
+
+.bgred {
+	 color :white; 
+	 background: red;
+	 padding: 10px;    
+
+}   
+.bgblack {
+	 color :blue;
+	 background: black;
+	 padding: 10px;    
+
+}   
+
+#header {
+	 color :blue;
+	 background: teal;
+	 height: 100pc;
+	 padding: 50px;  
+
+}
+ 
+
+
+
+
+
+
+
